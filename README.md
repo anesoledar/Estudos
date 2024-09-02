@@ -1,4 +1,6 @@
 # Índice
 Rocketseat
-  -Full-Stack
-  -ReactNative
+```
+1. Full-Stack
+2. ReactNative
+```
